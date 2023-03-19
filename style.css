@@ -26,7 +26,18 @@ body {
         text-align: center;
         align-content: center;
         align-items: center;
+        width: 90%;
     }
+
+    h1 {
+        font-size: 30px !important;
+    }
+
+    .overlay p {
+        font-size: 15px !important;
+        margin: auto;
+    }
+
 }
 
 .box-form div {
